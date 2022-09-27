@@ -1,0 +1,6 @@
+======================================================== RESTART: C:/Users/Thilo/Downloads/assignment 2 ibm.py ========================================================
+temperature: 155
+temperature is  high
+Humidity: 16
+humidity is low
+>>> 
